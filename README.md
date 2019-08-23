@@ -9,10 +9,16 @@ Dieses Repositorium beinhaltet Mobilitätsdaten und eine Software zur Konvertier
 - Fahrplandaten, alle Linien des Nahverkehrs, die das Verbundgebiet des AVV berühren
 - Informationen: https://www.avv.de/opendata
 - Quelle: http://opendata.avv.de/
-- Lizenz: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) (gemeinfrei), [Lizenz und Readme](http://opendata.avv.de/lizenz_und_readme.txt)
+- Lizenz: [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.de) (gemeinfrei), [Lizenz und Readme](https://github.com/dice-group/MotionAC/blob/master/avv/lizenz_und_readme.txt)
 
 ## gtfs-csv2rdf
 
 - Software-Bibliothek, die Dateien im GTFS/CSV Format in GTFS Tripel (RDF) transformiert.
 - Quelle: [OpenTransport/gtfs-csv2rdf](https://github.com/OpenTransport/gtfs-csv2rdf)
 - Vokabular: [Linked GTFS specification](https://github.com/OpenTransport/linked-gtfs/blob/master/spec.md)
+- Lizenz: [MIT](https://github.com/dice-group/MotionAC/blob/master/gtfs-csv2rdf/README.md)
+
+## Kontakt
+
+[Fachgruppe Data Science (DICE)](https://dice-research.org/) der Universität Paderborn  
+Adrian Wilke
