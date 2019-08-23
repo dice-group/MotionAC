@@ -15,7 +15,7 @@ Dieses Repositorium beinhaltet Mobilitätsdaten und eine Software zur Konvertier
 
 - Software-Bibliothek, die Dateien im GTFS/CSV Format in GTFS Tripel (RDF) transformiert.
 - Quelle: [OpenTransport/gtfs-csv2rdf](https://github.com/OpenTransport/gtfs-csv2rdf)
-- Vokabular: [Linked GTFS specification](https://github.com/OpenTransport/linked-gtfs/blob/master/spec.md)
+- Vokabular: [Linked GTFS specification](http://vocab.gtfs.org/)
 - Lizenz: [MIT](https://github.com/dice-group/MotionAC/blob/master/gtfs-csv2rdf/LICENSE)
 
 ## Kontakt
