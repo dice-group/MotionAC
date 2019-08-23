@@ -1,0 +1,31 @@
+{
+  "name": "gtfs-csv2rdf",
+  "version": "1.1.5",
+  "description": "Mapping script from gtfs csv to gtfs rdf",
+  "main": "lib/gtfs-csv2rdf.js",
+  "bin": "./gtfs-csv2rdf",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/OpenTransport/gtfs-csv2rdf.git"
+  },
+  "keywords": [
+    "GTFS"
+  ],
+  "author": "Pieter Colpaert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OpenTransport/gtfs-csv2rdf/issues"
+  },
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "csv": "~0.4.0",
+    "jsonld": "^1.1.0",
+    "jsonld-stream": "^1.0.2",
+    "moment": "^2.10.3",
+    "n3": "~0.4.0",
+    "unzip": "~0.1.9"
+  }
+}
