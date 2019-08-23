@@ -1,8 +1,7 @@
-*.zip
+#*.zip # DICE added comment
 *.ttl
 *.sparql
 *.jsonld
-
 
 # Logs
 logs
